@@ -10,7 +10,7 @@ Go 1.7+
 
 ## Installation
 
-    go get github.com/opennota/widdly
+    go get -u github.com/opennota/widdly
 
 ## Usage
 
